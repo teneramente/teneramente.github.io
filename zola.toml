@@ -1,0 +1,24 @@
+base_url = "https://teneramente.github.io"
+compile_sass = true
+build_search_index = false
+
+title = "过去的事"
+description = "我写一些文章。"
+author = "Andante"
+default_language = "zh-Hans"
+theme = "tabi"
+taxonomies = [{name = "tags", feed = true}]
+
+[markdown]
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+skin = "teal"
+
+menu = [
+    { name = "blog", url = "blog", trailing_slash = true },
+    { name = "archive", url = "archive", trailing_slash = true },
+    { name = "tags", url = "tags", trailing_slash = true },
+]
