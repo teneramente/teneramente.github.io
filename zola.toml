@@ -22,3 +22,7 @@ menu = [
     { name = "archive", url = "archive", trailing_slash = true },
     { name = "tags", url = "tags", trailing_slash = true },
 ]
+
+long_date_format = "%F %A"
+short_date_format = "%F"
+archive_date_format = "%m-%d"
