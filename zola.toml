@@ -15,7 +15,7 @@ taxonomies = [{name = "tags", feed = true}]
 theme = "catppuccin-mocha"
 
 [extra]
-skin = "teal"
+skin = "monochrome"
 
 menu = [
     { name = "blog", url = "blog", trailing_slash = true },
