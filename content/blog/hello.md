@@ -1,23 +1,22 @@
 +++
-title = "It started with an alright scene"
+title = "It started with an alright scene."
 date = "2026-03-09"
 description = "靡不有初，鲜克有终。"
 
 [taxonomies]
-tags = ["demo"]
+tags = ["Dummy"]
 +++
 
-This is your first blog post! You can:
+嗨，这是我在这里写的第一篇文章。一年多以来我一直想着，建个博客，写些和现世很远的东西。
 
-* Write in *Markdown*
-* Add code blocks:
+一直以来我不容易入睡。放任自己在床上想事情。夜里的事情可以简单分成近和远。近的东西有个明确的箭头：你一想到便知不可能停在这个想法这里，它一定连着另一个结论。地板是陷阱快要崩塌，拉高的电平很快会复位。快快用逻辑推理，赶紧找到下一个想法立足吧。想着想着，甚至忍不住马上起床开始付诸实践：这是近的。
+而远的想法像是温水：来自久远的过去的、从未发生的，不会让我想起现在的我的事。接下来连接到哪个想法，或者哪儿也不连着都可以；就停在这最后一个想法，忘了思考沉入睡眠也可以。
 
-```python
-print("Hello, World!")
-```
+迫近的想法催促我记下一些东西，以免睡眠之后忘记：明天必做的任务清单、自以为绝妙的天才想法…从这些待办事项的记录来看，我十分热衷于催促未来的自己“写博客”。
+当然，第二天费了老大劲才醒过来的时候，看见那些消息只觉得可恶：到底是谁侵占我夜晚的睡眠时间，还要给白天的我布置任务啊。那些所谓的好点子在日间成熟的大脑看起来，大多平平无奇。到底失眠的脑子智商比较低吧…
 
-* Create [links](https://example.com)
-* Add images
-* And much more!
+总之仗着没人认识斗胆开了个小号，又花了一周才把博客搭起来，似乎可以勾去这件待办。
+再怎么拖延，在网页样式、色彩和词句上花费时间，还是需要鼓起勇气提交不完美的第一篇。
 
-Check [tabi's documentation](https://welpo.github.io/tabi/) to learn about all features.
+Commit。Push。晚安。
+
