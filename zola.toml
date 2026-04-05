@@ -2,7 +2,7 @@ base_url = "https://teneramente.github.io"
 compile_sass = true
 build_search_index = false
 
-title = "过去的事"
+title = "Andante teneramente"
 description = "我写一些文章。"
 author = "Andante"
 default_language = "zh-Hans"
